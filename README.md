@@ -1,0 +1,2 @@
+# exam
+sum and avg
